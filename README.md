@@ -2,7 +2,8 @@
 Tickets to track progress of work across repos.
 
 One stop shop (a.k.a. _"issue repo"_) for:
-- epics, features, user stories, and tasks....and bug reports
+- epics, user stories
+  - it used to contain technical stories, tasks, and bug reports too, but those will be in their respective repos starting May 1, 2026
 - Wiki that applies to the entire organization or project
   - Repos can have their own wikis, e.g. backend for backend-specific internals
 - This repo is not meant for code
